@@ -2,7 +2,7 @@
 
 include_once('connection.php');
 
-$id = $_GET['martian_id'];
+$id = $_GET['edit_id'];
 $sql = "select * from martian where id='".$id."'";
 $result = mysqli_query($conn,$sql);
 
