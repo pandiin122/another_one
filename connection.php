@@ -1,7 +1,7 @@
 <?php
 $servername = "us-cdbr-east-06.cleardb.net";
-$username = "b79c0e5ef2f44c";
-$password = "988326d0";
+$username = "b3254f9c1d236c";
+$password = "59729ead";
 $db="heroku_18276d8ed93749c";
 
 // Create connection
