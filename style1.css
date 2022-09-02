@@ -1,0 +1,32 @@
+img{
+	width: 100px;
+	height: 100px;
+	margin-top: 20px;
+}
+
+#pics{
+	width: 200px;
+	height: 200px;
+	border-style: thick;
+	margin-top: 20px;
+}
+
+.body{
+		background-image: url("images/6.jpg");
+}
+
+p{
+	color: white;
+
+}
+h6{
+	color: white;
+ }
+
+.table{
+	background-color: white;
+	table-layout: fixed;
+	width: 70%;
+}
+
+
